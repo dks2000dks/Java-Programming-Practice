@@ -1,4 +1,5 @@
 # Java-Programming-Practice
-Code written in Java during Practice
+Practicing Java
 
-Practicing Java from different websites.
+## GeeksforGeeks
+Practicing Competitive Coding from GeeksforGeeks.
